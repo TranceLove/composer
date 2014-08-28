@@ -10,7 +10,7 @@ version '1.0.4'
   supports os
 end
 
-depends 'php'
+depends 'chefphp'
 
 recommends 'windows'
 
